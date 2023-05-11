@@ -1,0 +1,28 @@
+2023-05-09 15:53:44,272 INFO  [Log] Application Opened 
+2023-05-09 15:53:48,156 INFO  [Log] Login Completed 
+2023-05-09 15:53:51,446 INFO  [Log] Entered into Frame 
+2023-05-09 15:54:47,401 INFO  [Log] Application Opened 
+2023-05-09 15:54:56,674 INFO  [Log] Login Completed 
+2023-05-09 15:54:59,762 INFO  [Log] Entered into Frame 
+2023-05-09 15:55:18,464 INFO  [Log] Addind Employee Completed 
+2023-05-09 15:55:21,484 INFO  [Log] Exit From the Frame 
+2023-05-09 15:55:24,590 INFO  [Log] Logout Completed 
+2023-05-09 15:55:28,002 INFO  [Log] Application Closed 
+2023-05-09 16:02:36,940 INFO  [Log] Application Opened 
+2023-05-09 16:02:49,457 INFO  [Log] Login Completed 
+2023-05-09 16:02:55,560 INFO  [Log] Entered into Frame 
+2023-05-09 16:12:37,374 INFO  [Log] Application Opened 
+2023-05-09 16:13:10,836 INFO  [Log] Login Completed 
+2023-05-09 16:13:40,624 INFO  [Log] Application Opened 
+2023-05-09 16:13:43,757 INFO  [Log] Login Completed 
+2023-05-09 16:13:46,810 INFO  [Log] Entered into Frame 
+2023-05-09 16:13:51,474 INFO  [Log] Employee Deleted 
+2023-05-09 16:13:54,493 INFO  [Log] Exit From the Frame 
+2023-05-09 16:13:57,574 INFO  [Log] Logout Completed 
+2023-05-09 16:14:00,710 INFO  [Log] Application Closed 
+2023-05-11 15:18:59,586 INFO  [Log] Application Opened 
+2023-05-11 15:19:07,359 INFO  [Log] Login Completed 
+2023-05-11 15:19:10,618 INFO  [Log] Entered into Frame 
+2023-05-11 15:19:28,451 INFO  [Log] Addind Employee Completed 
+2023-05-11 15:19:31,479 INFO  [Log] Exit From the Frame 
+2023-05-11 15:19:34,601 INFO  [Log] Logout Completed 
